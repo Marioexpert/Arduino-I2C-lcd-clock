@@ -11,3 +11,7 @@ You could use a non-I2C but you'll have to configure it by yourself :/
 
   -12/24h Mode
   -A way to set the time
+
+Credits :
+
+ Myself/the one who made the LCDI2C library
