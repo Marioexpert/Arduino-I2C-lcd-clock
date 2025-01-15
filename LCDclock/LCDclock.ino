@@ -66,7 +66,7 @@ void getClock() {
             ampmflag = Serial.read() - 48;
           }
 
-// Error verification. If an error is present, the variable concerned will be set to 0 :
+// Error verification. If an error is present, the variable concerned will be set to default :
    }
          if (hrs >= 24) {
           Serial.print("Invalid clock!");
